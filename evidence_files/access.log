@@ -1,0 +1,4 @@
+2026-11-01 09:14:02 user=alice action=LOGIN result=SUCCESS
+2026-11-01 09:15:40 user=alice action=READ file=report.pdf
+
+[TAMPERED] unauthorized log line: user=mallory action=DELETE_LOGS

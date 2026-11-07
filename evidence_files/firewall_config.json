@@ -1,0 +1,1 @@
+{"rules": [{"port": 443, "action": "allow"}, {"port": 23, "action": "deny"}]}

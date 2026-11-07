@@ -1,0 +1,3 @@
+timestamp,endpoint,status
+2026-11-01T09:00:00Z,/v1/login,200
+2026-11-01T09:01:12Z,/v1/export,200
