@@ -1,0 +1,6 @@
+build/
+vault
+demo_test
+data/*.json
+data/*.db
+reports/*.txt
